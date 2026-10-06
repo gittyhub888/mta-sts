@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mail.meinemel.eu
+mx: *.mailbox.org
+max_age: 86400
